@@ -1,6 +1,5 @@
 ## Paper Link:
-https://docs.google.com/document/d/1u8tAuRcUurR4vN4Qw6h5dBQ5Izrf2YRgJggnYbKUQIo/edit?usp=sharing
-
+https://docs.google.com/document/d/1Zyd7e1wogx93mRLV77WKaDJapFPNOnGYPeHiGdAZsT4/edit?usp=sharing
 
 ## PPTX Link:
 https://docs.google.com/presentation/d/1BZ1p9uFr4WOWJy9Fm2VmYUUS0gr38-LDH6-oDZEmU8U/edit?usp=sharing
