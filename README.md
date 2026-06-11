@@ -1,8 +1,11 @@
 ## Paper Link:
-https://prism.openai.com/?u=22ecf272-4533-4344-893e-ea7de547c5a8&pg=1&m=main.tex&d=7
+https://docs.google.com/document/d/1u8tAuRcUurR4vN4Qw6h5dBQ5Izrf2YRgJggnYbKUQIo/edit?usp=sharing
+
 
 ## PPTX Link:
-..
+https://docs.google.com/presentation/d/1BZ1p9uFr4WOWJy9Fm2VmYUUS0gr38-LDH6-oDZEmU8U/edit?usp=sharing
+
+
 ## Final Deliverables 
 a) Comprehensive Technical Report: Documenting the transition from statistical analysis to ML modeling. 
 
